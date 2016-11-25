@@ -1,0 +1,2 @@
+# CapitalFloat
+StringCombinationAssignment
